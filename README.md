@@ -9,9 +9,9 @@ A simple interactions.py discord bot to nuke text channels. Deletes a channel an
 Python 3.10+ is required
 
 ```bash
-  git clone https://github.com/WipingAllOut/ChannelNuker
-  cd ChannelNuker
-  pip install -r requirements.txt
+git clone https://github.com/WipingAllOut/ChannelNuker
+cd ChannelNuker
+pip install -r requirements.txt
 ```
 
 Now open main.py and set your bot token (can be found at https://discord.com/developers/applications)
